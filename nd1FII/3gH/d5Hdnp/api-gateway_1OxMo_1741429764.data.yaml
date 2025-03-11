@@ -28,7 +28,6 @@ github:
       - apigateway
       - microservices
       - api
-      - apis
       - loadbalancing
       - reverse-proxy
       - api-management
