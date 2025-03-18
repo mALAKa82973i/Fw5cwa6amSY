@@ -41,7 +41,6 @@
 *.bcmap   -text diff
 *.swf     -text diff
 *.rar     -text diff
-*.bmp     -text diff
 *.odt     -text diff
 *.doc     -text diff
 *.docx    -text diff
