@@ -223,7 +223,6 @@ def req_prem_stats_list(missing_data):
                 print('sleeping for 1 minute - API only allows 10 requests per minute')
                 time.sleep(60)
             print(dat)
-            fix_id = str(dat)
             fixture_raw = get_api_data(base_url, '/statistics/fixture/' + fix_id + '/')
             fixture_sliced = slice_api(fixture_raw, 34, 2)
             save_api_output('prem_game_stats_json_files/' + fix_id, fixture_sliced)
