@@ -9,7 +9,6 @@ const config: UserConfig = {
       'always',
       [
         'chore',
-        'ci',
         'docs',
         'enhancement',
         'feat',
