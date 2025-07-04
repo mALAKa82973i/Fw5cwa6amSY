@@ -139,7 +139,6 @@ all the source code for all modules it contains, plus any associated
 interface definition files, plus the scripts used to control compilation
 and installation of the library.
 
-  Activities other than copying, distribution and modification are not
 covered by this License; they are outside its scope.  The act of
 running a program using the Library is not restricted, and output from
 such a program is covered only if its contents constitute a work based
