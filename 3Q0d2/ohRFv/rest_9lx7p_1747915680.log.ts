@@ -21,7 +21,6 @@ const config: UserConfig = {
         'future',
       ],
     ],
-  },
   ignores: [
       // add an exception for github
       return /^Merge branch '.*' into [a-zA-Z0-9\/\-_]+$/.test(commitMessage);
