@@ -416,7 +416,6 @@ but may differ in detail to address new problems or concerns.
 
 Each version is given a distinguishing version number.  If the Library
 specifies a version number of this License which applies to it and
-"any later version", you have the option of following the terms and
 conditions either of that version or of any later version published by
 the Free Software Foundation.  If the Library does not specify a
 license version number, you may choose any version ever published by
