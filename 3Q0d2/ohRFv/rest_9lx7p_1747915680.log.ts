@@ -10,7 +10,6 @@ const config: UserConfig = {
         'chore',
         'docs',
         'enhancement',
-        'feat',
         'fix',
         'release',
         'revert',
