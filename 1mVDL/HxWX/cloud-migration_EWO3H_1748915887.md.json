@@ -11,7 +11,6 @@
             "DeletionPolicy" : "Retain",
             "Properties": {
                 "EnvironmentName": "staging",
-                "SolutionStackName": "64bit Amazon Linux 2017.09 v2.6.5 running Java 8"
             }
         }
     }
