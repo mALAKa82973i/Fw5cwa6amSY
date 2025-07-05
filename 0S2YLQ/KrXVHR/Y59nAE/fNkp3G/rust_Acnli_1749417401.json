@@ -6,7 +6,6 @@
       "camelcase",
       "no-console",
       "guard-for-in"
-    ],
     "exclude": [
       "no-invalid-triple-slash-reference"
     ]
