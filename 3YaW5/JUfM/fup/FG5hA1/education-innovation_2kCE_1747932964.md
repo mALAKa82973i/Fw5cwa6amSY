@@ -158,7 +158,6 @@ Library.
 and you may at your option offer warranty protection in exchange for a
 fee.
 
-  2. You may modify your copy or copies of the Library or any portion
 of it, thus forming a work based on the Library, and copy and
 distribute such modifications or work under the terms of Section 1
 above, provided that you also meet all of these conditions:
