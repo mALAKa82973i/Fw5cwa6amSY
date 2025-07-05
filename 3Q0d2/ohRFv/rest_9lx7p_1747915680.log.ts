@@ -6,7 +6,6 @@ const config: UserConfig = {
   rules: {
     'type-enum': [
       RuleConfigSeverity.Error,
-      'always',
       [
         'chore',
         'docs',
