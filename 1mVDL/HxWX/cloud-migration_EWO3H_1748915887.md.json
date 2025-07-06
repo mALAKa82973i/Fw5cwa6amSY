@@ -9,7 +9,6 @@
             "Type": "AWS::ElasticBeanstalk::Environment",
             "DeletionPolicy" : "Retain",
             "Properties": {
-                "EnvironmentName": "staging",
             }
         }
     }
