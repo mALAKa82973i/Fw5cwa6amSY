@@ -3,7 +3,6 @@
             "Type": "AWS::ElasticBeanstalk::Application",
             "DeletionPolicy" : "Retain",
             "Properties": {
-                "ApplicationName": "coffee-service"
             }
         },
         "MyEBSStaging": {
