@@ -21,6 +21,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [5.7.1] - 2020-01
 ### Added
 
-## [5.7.0] - 2020-01
 ### Added
 - Support for multiple partition attributes (non date-derived) and single non date-derived partition attributes.
