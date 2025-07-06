@@ -91,7 +91,6 @@ We follow a standardized commit message format using Commitlint to ensure consis
 
    - `feat`: A new feature or enhancement.
    - `fix`: A bug fix.
-   - `docs`: Documentation changes.
    - `style`: Code style changes (e.g., formatting, semicolons).
    - `refactor`: Code refactorings with no feature changes or bug fixes.
    - `test`: Adding or improving tests.
