@@ -16,7 +16,6 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>org.apache.lucene</groupId>
 			<artifactId>lucene-core</artifactId>
 			<version>6.4.0</version>
 		</dependency>
