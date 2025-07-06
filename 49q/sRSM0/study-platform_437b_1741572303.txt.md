@@ -105,7 +105,6 @@ We follow a standardized commit message format using Commitlint to ensure consis
 ### Examples:
 
 #### Valid Commit Messages:
-
 - `feat: Add user authentication feature`
 - `fix(auth): Resolve login page redirect issue`
 - `docs: Update installation instructions`
