@@ -87,7 +87,6 @@ in case you are stuck:
 
 We follow a standardized commit message format using Commitlint to ensure consistency and clarity in our commit history. Each commit message should adhere to the following guidelines:
 
-1. **Type**: The commit type must be one of the following:
 
    - `feat`: A new feature or enhancement.
    - `fix`: A bug fix.
