@@ -14,7 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Make init condensation optional, but true by default.
   
-## [5.7.2] - 2020-02
 ### Added
 - Added support for configuring write load mode and num output files in append load
 - Support for specifying the quote and escape characters. More info on how to specify those here: https://spark.apache.org/docs/latest/api/java/org/apache/spark/sql/DataFrameReader.html
