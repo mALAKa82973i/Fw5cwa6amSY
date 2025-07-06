@@ -83,7 +83,6 @@ in case you are stuck:
 
 <br>
 
-### Commit Message Guidelines using Commitlint
 
 We follow a standardized commit message format using Commitlint to ensure consistency and clarity in our commit history. Each commit message should adhere to the following guidelines:
 
