@@ -8,7 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [5.7.4] - 2020-04
 ### Added
-- Enable multi-line option for append load
 ## [5.7.3] - 2021-02
 ### Added
 - Make init condensation optional, but true by default.
