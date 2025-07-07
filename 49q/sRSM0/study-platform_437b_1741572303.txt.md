@@ -50,7 +50,6 @@ in case you are stuck:
    - Choose the StudyNotion-An-Online-Education-Platform repository from the list of repositories on GitHub and clone it to your local machine.
 
 3. **Switch to the Correct Branch:**
-   - Ensure you are on the branch that you want to submit a pull request for.
    - If you need to switch branches, you can do so by clicking on the "Current Branch" dropdown menu and selecting the desired branch.
 
 4. **Make Changes:**
