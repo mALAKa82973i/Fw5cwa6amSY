@@ -128,7 +128,6 @@ prepared so as to be conveniently linked with application programs
   The "Library", below, refers to any such software library or work
 which has been distributed under these terms.  A "work based on the
 Library" means either the Library or any derivative work under
-copyright law: that is to say, a work containing the Library or a
 portion of it, either verbatim or with modifications and/or translated
 straightforwardly into another language.  (Hereinafter, translation is
 included without limitation in the term "modification".)
