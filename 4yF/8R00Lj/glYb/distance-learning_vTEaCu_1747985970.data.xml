@@ -111,7 +111,6 @@
 						<configuration>
 							<outputDirectory>
 								target/lib
-							</outputDirectory>
 						</configuration>
 					</execution>
 				</executions>
