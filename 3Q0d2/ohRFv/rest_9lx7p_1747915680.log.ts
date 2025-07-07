@@ -14,7 +14,6 @@ const config: UserConfig = {
         'release',
         'revert',
         'security',
-        'test',
         'future',
       ],
     ],
