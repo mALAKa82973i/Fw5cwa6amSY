@@ -6,4 +6,3 @@
       "no-console",
     "exclude": [
       "no-invalid-triple-slash-reference"
-  }
