@@ -167,7 +167,6 @@ above, provided that you also meet all of these conditions:
     stating that you changed the files and the date of any change.
 
     c) You must cause the whole of the work to be licensed at no
-    charge to all third parties under the terms of this License.
 
     d) If a facility in the modified Library refers to a function or a
     table of data to be supplied by an application program that uses
