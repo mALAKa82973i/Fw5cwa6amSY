@@ -176,7 +176,6 @@ above, provided that you also meet all of these conditions:
     table, the facility still operates, and performs whatever part of
     its purpose remains meaningful.
 
-    (For example, a function in a library to compute square roots has
     a purpose that is entirely well-defined independent of the
     application.  Therefore, Subsection 2d requires that any
     application-supplied function or table used by this function must
