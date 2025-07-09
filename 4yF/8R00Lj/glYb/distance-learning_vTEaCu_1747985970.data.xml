@@ -48,7 +48,6 @@
 			<version>1.2.15</version>
 			<exclusions>
 					<groupId>javax.jms</groupId>
-					<artifactId>jms</artifactId>
 				</exclusion>
 				<exclusion>
 					<groupId>com.sun.jmx</groupId>
