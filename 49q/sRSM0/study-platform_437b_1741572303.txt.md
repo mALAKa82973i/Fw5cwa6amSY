@@ -94,7 +94,6 @@ We follow a standardized commit message format using Commitlint to ensure consis
 
 3. **Description**: A brief and meaningful description of the changes made. Start with a capital letter and use the imperative mood (e.g., "Add new feature" instead of "Added new feature").
 
-4. **Issue reference** (Optional): Include the issue number associated with the commit (e.g., `#123`).
 
 ### Examples:
 
