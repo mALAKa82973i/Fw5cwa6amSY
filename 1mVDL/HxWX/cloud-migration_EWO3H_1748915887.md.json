@@ -1,5 +1,4 @@
 {
-        "MyEBS": {
             "Type": "AWS::ElasticBeanstalk::Application",
             "DeletionPolicy" : "Retain",
             "Properties": {
