@@ -104,7 +104,6 @@ We follow a standardized commit message format using Commitlint to ensure consis
 - `style: Format code according to project guidelines`
 - `refactor(navbar): Improve responsiveness`
 - `test: Add unit tests for API endpoints`
-- `chore: Update dependencies to latest versions`
 - `fix: Handle edge case in data processing (#456)`
 
 #### Invalid Commit Messages:
