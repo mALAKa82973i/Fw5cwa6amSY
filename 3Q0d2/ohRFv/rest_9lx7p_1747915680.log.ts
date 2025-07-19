@@ -3,7 +3,6 @@ import { RuleConfigSeverity } from '@commitlint/types';
 
 const config: UserConfig = {
   rules: {
-    'type-enum': [
       RuleConfigSeverity.Error,
       [
         'chore',
