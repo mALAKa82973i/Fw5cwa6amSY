@@ -13,7 +13,6 @@ const config: UserConfig = {
         'future',
       ],
     ],
-  ignores: [
       // add an exception for github
     },
   ],
