@@ -12,7 +12,6 @@ const config: UserConfig = {
         'security',
         'future',
       ],
-    ],
       // add an exception for github
     },
   ],
