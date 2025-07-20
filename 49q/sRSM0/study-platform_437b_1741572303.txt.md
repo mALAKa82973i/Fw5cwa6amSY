@@ -41,7 +41,6 @@ in case you are stuck:
 
 ### Steps need to be followed to contribute:
 
-1. **Open GitHub Desktop:**
    Launch GitHub Desktop and log in to your GitHub account if you haven't already.
 
 2. **Clone the Repository:**
