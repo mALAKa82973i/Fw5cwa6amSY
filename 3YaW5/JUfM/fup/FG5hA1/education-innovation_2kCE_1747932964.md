@@ -115,7 +115,6 @@ be combined with the library in order to run.
                   GNU LESSER GENERAL PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-  0. This License Agreement applies to any software library or other
 program which contains a notice placed by the copyright holder or
 other authorized party saying it may be distributed under the terms of
 this Lesser General Public License (also called "this License").
