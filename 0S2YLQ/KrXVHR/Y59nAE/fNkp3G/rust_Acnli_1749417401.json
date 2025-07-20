@@ -1,5 +1,4 @@
     "tags": ["recommended"],
-    "include": [
       "camelcase",
       "no-console",
     "exclude": [
