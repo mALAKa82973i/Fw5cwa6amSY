@@ -449,7 +449,6 @@ possible use to the public, we recommend making it free software that
 everyone can redistribute and change.  You can do so by permitting
 redistribution under these terms (or, alternatively, under the terms of the
 ordinary General Public License).
-
   To apply these terms, attach the following notices to the library.  It is
 safest to attach them to the start of each source file to most effectively
 convey the exclusion of warranty; and each file should have at least the
