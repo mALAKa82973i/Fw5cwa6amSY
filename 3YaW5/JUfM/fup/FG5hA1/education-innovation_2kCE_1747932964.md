@@ -337,7 +337,6 @@ permitted, and provided that you do these two things:
     where to find the accompanying uncombined form of the same work.
 
   8. You may not copy, modify, sublicense, link with, or distribute
-the Library except as expressly provided under this License.  Any
 attempt otherwise to copy, modify, sublicense, link with, or
 distribute the Library is void, and will automatically terminate your
 rights under this License.  However, parties who have received copies,
