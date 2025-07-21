@@ -10,7 +10,6 @@ const config: UserConfig = {
         'release',
         'revert',
         'security',
-        'future',
       ],
       // add an exception for github
     },
