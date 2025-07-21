@@ -76,7 +76,6 @@
 			<groupId>com.mit</groupId>
 			<artifactId>mitie</artifactId>
 			<version>1.0</version>
-			<scope>system</scope>
 			<systemPath>${basedir}/mitie_lib/javamitie.jar</systemPath>
 		</dependency>
 	</dependencies>
