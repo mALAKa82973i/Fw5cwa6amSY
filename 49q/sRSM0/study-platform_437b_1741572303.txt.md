@@ -99,7 +99,6 @@ We follow a standardized commit message format using Commitlint to ensure consis
 - `feat: Add user authentication feature`
 - `fix(auth): Resolve login page redirect issue`
 - `docs: Update installation instructions`
-- `style: Format code according to project guidelines`
 - `refactor(navbar): Improve responsiveness`
 - `test: Add unit tests for API endpoints`
 - `fix: Handle edge case in data processing (#456)`
