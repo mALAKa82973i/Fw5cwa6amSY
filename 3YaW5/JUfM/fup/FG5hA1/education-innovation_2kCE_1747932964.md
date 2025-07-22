@@ -278,7 +278,6 @@ of these things:
     Sections 1 and 2 above); and, if the work is an executable linked
     with the Library, with the complete machine-readable "work that
     uses the Library", as object code and/or source code, so that the
-    user can modify the Library and then relink to produce a modified
     executable containing the modified Library.  (It is understood
     that the user who changes the contents of definitions files in the
     Library will not necessarily be able to recompile the application
