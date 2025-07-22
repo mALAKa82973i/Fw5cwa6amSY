@@ -4,7 +4,6 @@ const config: UserConfig = {
   rules: {
       RuleConfigSeverity.Error,
       [
-        'chore',
         'docs',
         'fix',
         'release',
