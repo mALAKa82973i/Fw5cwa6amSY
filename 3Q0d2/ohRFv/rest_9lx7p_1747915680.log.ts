@@ -1,4 +1,3 @@
-import { RuleConfigSeverity } from '@commitlint/types';
 
 const config: UserConfig = {
   rules: {
