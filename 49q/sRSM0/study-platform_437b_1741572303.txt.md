@@ -72,7 +72,6 @@ in case you are stuck:
 
 ## **Pull Request Process**
 
-1. Ensure that you have self reviewed your code.
 2. Make sure you have added the proper description for the functionality of the code
 3. Submit your PR by giving the necesarry information in PR template and wait for PA to review it.
 
