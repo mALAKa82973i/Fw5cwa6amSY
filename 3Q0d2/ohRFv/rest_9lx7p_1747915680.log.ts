@@ -3,7 +3,6 @@ const config: UserConfig = {
   rules: {
       RuleConfigSeverity.Error,
         'docs',
-        'fix',
         'release',
         'revert',
         'security',
