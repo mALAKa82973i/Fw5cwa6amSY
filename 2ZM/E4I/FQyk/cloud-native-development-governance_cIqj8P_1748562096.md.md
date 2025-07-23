@@ -10,7 +10,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Support for specifying the quote and escape characters. More info on how to specify those here: https://spark.apache.org/docs/latest/api/java/org/apache/spark/sql/DataFrameReader.html
 
-## [5.7.1] - 2020-01
 ### Added
 
 ### Added
