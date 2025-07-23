@@ -254,7 +254,6 @@ Library will still fall under Section 6.)
 
   Otherwise, if the work is a derivative of the Library, you may
 distribute the object code for the work under the terms of Section 6.
-Any executables containing that work also fall under Section 6,
 whether or not they are linked directly with the Library itself.
 
   6. As an exception to the Sections above, you may also combine or
