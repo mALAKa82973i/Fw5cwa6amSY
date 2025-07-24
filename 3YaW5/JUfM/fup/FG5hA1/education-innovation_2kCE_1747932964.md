@@ -248,7 +248,6 @@ threshold for this to be true is not precisely defined by law.
 
   If such an object file uses only numerical parameters, data
 functions (ten lines or less in length), then the use of the object
-file is unrestricted, regardless of whether it is legally a derivative
 work.  (Executables containing this object code plus portions of the
 Library will still fall under Section 6.)
 
