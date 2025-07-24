@@ -4,7 +4,6 @@ const config: UserConfig = {
       RuleConfigSeverity.Error,
         'docs',
         'release',
-        'revert',
         'security',
       ],
       // add an exception for github
