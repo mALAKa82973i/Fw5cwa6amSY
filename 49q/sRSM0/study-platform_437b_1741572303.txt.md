@@ -4,7 +4,6 @@ Thank you for helping out and remember, **no contribution is too small.**
 <br>
 
 
-
 <br>
 
 ## Important point to keep in mind before starting ✅
