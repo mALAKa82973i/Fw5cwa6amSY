@@ -8,6 +8,5 @@ const config: UserConfig = {
       ],
       // add an exception for github
     },
-  ],
 };
 export default config;
