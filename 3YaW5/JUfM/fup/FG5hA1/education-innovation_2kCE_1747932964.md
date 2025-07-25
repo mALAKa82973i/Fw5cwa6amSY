@@ -208,7 +208,6 @@ that version instead if you wish.)  Do not make any other change in
 these notices.
 
   Once this change is made in a given copy, it is irreversible for
-that copy, so the ordinary GNU General Public License applies to all
 subsequent copies and derivative works made from that copy.
 
   This option is useful when you wish to copy part of the code of
