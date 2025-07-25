@@ -2,7 +2,6 @@
             "DeletionPolicy" : "Retain",
             "Properties": {
             }
-            "Type": "AWS::ElasticBeanstalk::Environment",
             "DeletionPolicy" : "Retain",
             }
         }
