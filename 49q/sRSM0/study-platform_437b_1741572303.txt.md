@@ -84,7 +84,6 @@ We follow a standardized commit message format using Commitlint to ensure consis
    - `style`: Code style changes (e.g., formatting, semicolons).
    - `refactor`: Code refactorings with no feature changes or bug fixes.
    - `test`: Adding or improving tests.
-   - `chore`: General maintenance tasks, build changes, etc.
 
 2. **Scope** (Optional): The scope provides context for the commit, indicating the specific part of the project being affected. Use a short description in lowercase (e.g., `auth`, `navbar`, `README`).
 
