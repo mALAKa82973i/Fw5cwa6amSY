@@ -100,7 +100,6 @@
 							<outputDirectory>
 								target/lib
 						</configuration>
-					</execution>
 				</executions>
 			</plugin>
 		</plugins>
