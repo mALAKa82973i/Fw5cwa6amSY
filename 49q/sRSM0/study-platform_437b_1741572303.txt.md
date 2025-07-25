@@ -104,7 +104,6 @@ We follow a standardized commit message format using Commitlint to ensure consis
 - `Fixed a bug`
 - `Updated code`
 - `auth feature update`
-- `chore: fixed some stuff`
 
 
 By following these guidelines, we can maintain a clean commit history that is easy to understand and helps us effectively track changes. If you have any questions or need further assistance, feel free to ask! Happy contributing!
