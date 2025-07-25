@@ -91,7 +91,6 @@ We follow a standardized commit message format using Commitlint to ensure consis
 3. **Description**: A brief and meaningful description of the changes made. Start with a capital letter and use the imperative mood (e.g., "Add new feature" instead of "Added new feature").
 
 
-### Examples:
 
 - `feat: Add user authentication feature`
 - `fix(auth): Resolve login page redirect issue`
