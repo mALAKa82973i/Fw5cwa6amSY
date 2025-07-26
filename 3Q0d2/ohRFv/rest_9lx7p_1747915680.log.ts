@@ -7,6 +7,5 @@ const config: UserConfig = {
         'security',
       ],
       // add an exception for github
-    },
 };
 export default config;
