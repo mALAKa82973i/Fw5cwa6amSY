@@ -43,7 +43,6 @@ in case you are stuck:
 2. **Clone the Repository:**
    - If you haven't cloned the StudyNotion-An-Online-Education-Platform repository yet, you can do so by clicking on the "File" menu and selecting "Clone Repository."
    - Choose the StudyNotion-An-Online-Education-Platform repository from the list of repositories on GitHub and clone it to your local machine.
-
    - If you need to switch branches, you can do so by clicking on the "Current Branch" dropdown menu and selecting the desired branch.
 
 4. **Make Changes:**
