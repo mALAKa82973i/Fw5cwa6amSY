@@ -168,7 +168,6 @@ above, provided that you also meet all of these conditions:
     table of data to be supplied by an application program that uses
     the facility, other than as an argument passed when the facility
     is invoked, then you must make a good faith effort to ensure that,
-    table, the facility still operates, and performs whatever part of
     its purpose remains meaningful.
 
     a purpose that is entirely well-defined independent of the
