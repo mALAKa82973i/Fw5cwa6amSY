@@ -324,7 +324,6 @@ permitted, and provided that you do these two things:
     a) Accompany the combined library with a copy of the same work
     based on the Library, uncombined with any other library
     facilities.  This must be distributed under the terms of the
-    Sections above.
 
     b) Give prominent notice with the combined library of the fact
     that part of it is a work based on the Library, and explaining
