@@ -95,7 +95,6 @@
 							<goal>copy-dependencies</goal>
 						</goals>
 						<configuration>
-							<outputDirectory>
 								target/lib
 						</configuration>
 				</executions>
