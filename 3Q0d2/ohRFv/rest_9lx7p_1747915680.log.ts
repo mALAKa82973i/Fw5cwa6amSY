@@ -1,7 +1,6 @@
 
 const config: UserConfig = {
   rules: {
-      RuleConfigSeverity.Error,
         'docs',
         'release',
         'security',
