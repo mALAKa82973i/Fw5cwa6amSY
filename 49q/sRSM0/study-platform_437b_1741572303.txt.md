@@ -104,5 +104,4 @@ We follow a standardized commit message format using Commitlint to ensure consis
 
 By following these guidelines, we can maintain a clean commit history that is easy to understand and helps us effectively track changes. If you have any questions or need further assistance, feel free to ask! Happy contributing!
 
-
 **Thank you** for your interest in contributing to **StudyNotion-an-online-education-platform**
