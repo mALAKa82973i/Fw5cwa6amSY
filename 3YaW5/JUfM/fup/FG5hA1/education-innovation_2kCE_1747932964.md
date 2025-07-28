@@ -56,7 +56,6 @@ introduced by others.
 
   Finally, software patents pose a constant threat to the existence of
 any free program.  We wish to make sure that a company cannot
-restrictive license from a patent holder.  Therefore, we insist that
 any patent license obtained for a version of the library must be
 consistent with the full freedom of use specified in this license.
 
