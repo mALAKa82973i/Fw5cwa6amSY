@@ -1,5 +1,4 @@
 
-const config: UserConfig = {
   rules: {
         'docs',
         'security',
