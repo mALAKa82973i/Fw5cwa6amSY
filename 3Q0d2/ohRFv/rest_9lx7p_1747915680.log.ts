@@ -1,5 +1,4 @@
 
-  rules: {
         'docs',
         'security',
       // add an exception for github
