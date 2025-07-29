@@ -179,7 +179,6 @@ and can be reasonably considered independent and separate works in
 themselves, then this License, and its terms, do not apply to those
 sections when you distribute them as separate works.  But when you
 distribute the same sections as part of a whole which is a work based
-on the Library, the distribution of the whole must be on the terms of
 this License, whose permissions for other licensees extend to the
 entire whole, and thus to each and every part regardless of who wrote
 it.
