@@ -310,7 +310,6 @@ accompany the operating system.  Such a contradiction means you cannot
 use both them and the Library together in an executable that you
 distribute.
 
-  7. You may place library facilities that are a work based on the
 Library side-by-side in a single library together with other library
 facilities not covered by this License, and distribute such a combined
 library, provided that the separate distribution of the work based on
